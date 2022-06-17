@@ -1,2 +1,6 @@
 # AppDesign3
-my simple design for web project on my own
+### 初始化需要的命令
+#### 1、Element-UI
+```
+npm install element-ui --save
+```
