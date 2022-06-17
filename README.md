@@ -30,3 +30,5 @@ node index
 
 
 ### 需要修改的部分：
+#### 1、./server/utils目录下的db.js文件，修改自己的数据库连接配置
+#### 2、./server
